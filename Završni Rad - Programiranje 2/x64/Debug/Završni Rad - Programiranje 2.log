@@ -1,0 +1,8 @@
+﻿  funkcije.c
+C:\Users\Toni\source\repos\Završni Rad - Programiranje 2\Završni Rad - Programiranje 2\funkcije.c(35,12): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\Toni\source\repos\Završni Rad - Programiranje 2\Završni Rad - Programiranje 2\funkcije.c(64,16): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\Toni\source\repos\Završni Rad - Programiranje 2\Završni Rad - Programiranje 2\funkcije.c(71,16): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\Toni\source\repos\Završni Rad - Programiranje 2\Završni Rad - Programiranje 2\funkcije.c(86,16): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\Toni\source\repos\Završni Rad - Programiranje 2\Završni Rad - Programiranje 2\funkcije.c(102,16): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\Toni\source\repos\Završni Rad - Programiranje 2\Završni Rad - Programiranje 2\funkcije.c(105,16): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+  Završni Rad - Programiranje 2.vcxproj -> C:\Users\Toni\source\repos\Završni Rad - Programiranje 2\x64\Debug\Završni Rad - Programiranje 2.exe
